@@ -1,0 +1,12 @@
+C:\Users\thefl\source\repos\Romanizer\Romanizer\bin\Debug\net6.0\Romanizer.deps.json
+C:\Users\thefl\source\repos\Romanizer\Romanizer\bin\Debug\net6.0\Romanizer.dll
+C:\Users\thefl\source\repos\Romanizer\Romanizer\bin\Debug\net6.0\Romanizer.pdb
+C:\Users\thefl\source\repos\Romanizer\Romanizer\obj\Debug\net6.0\Romanizer.csproj.AssemblyReference.cache
+C:\Users\thefl\source\repos\Romanizer\Romanizer\obj\Debug\net6.0\Romanizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thefl\source\repos\Romanizer\Romanizer\obj\Debug\net6.0\Romanizer.AssemblyInfoInputs.cache
+C:\Users\thefl\source\repos\Romanizer\Romanizer\obj\Debug\net6.0\Romanizer.AssemblyInfo.cs
+C:\Users\thefl\source\repos\Romanizer\Romanizer\obj\Debug\net6.0\Romanizer.csproj.CoreCompileInputs.cache
+C:\Users\thefl\source\repos\Romanizer\Romanizer\obj\Debug\net6.0\Romanizer.dll
+C:\Users\thefl\source\repos\Romanizer\Romanizer\obj\Debug\net6.0\refint\Romanizer.dll
+C:\Users\thefl\source\repos\Romanizer\Romanizer\obj\Debug\net6.0\Romanizer.pdb
+C:\Users\thefl\source\repos\Romanizer\Romanizer\obj\Debug\net6.0\ref\Romanizer.dll
