@@ -1,5 +1,4 @@
 ﻿Feature: SpecFlowFeature1
-	Simple calculator for adding two numbers
 
 @mytag
 Scenario: Simple 2000
@@ -33,9 +32,9 @@ Scenario Outline: List numbers
     | 29		| XXIX 		|
     | 30		| XXX		|
     | 31		| XXXI		|
-    | 777		| DCCLXXVII		|
-    | 999		| CMXCIX		|
-    | 1999		| MCMXCIX		|
+    | 777		| DCCLXXVII	|
+    | 999		| CMXCIX	|
+    | 1999		| MCMXCIX	|
     | 2021		| MMXXI		|
-    | 4000		| *error*		|
-    | 0			| 		|
+    | 4000		| *error*	|
+    | 0			| 		    |
