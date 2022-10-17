@@ -38,3 +38,4 @@ Scenario Outline: List numbers
     | 2021		| MMXXI		|
     | 4000		| *error*	|
     | 0			| 		    |
+    | -1		| *error*	|
